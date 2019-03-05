@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>yumasi</name>
+    <description>Various ebuilds for tools I use</description>
+    <owner>
+      <email>guillaume.pagnoux@lse.epita.fr</email>
+      <name>Guillaume Pagnoux</name>
+    </owner>
+    <source type="git">https://github.com/Yumasi/gentoo-overlay.git</source>
+  </repo>
+</repositories>
+
